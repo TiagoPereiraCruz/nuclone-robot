@@ -49,7 +49,8 @@ source ~/.zshrc
 ```
 
 ### No Windows
-<iframe src="https://player.vimeo.com/video/343316822" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+[![Audi R8](https://i9.ytimg.com/vi/ZsOq4xoTid0/mq2.jpg?sqp=CKXq7-8F&rs=AOn4CLB6POaFOG8KEr2gODafpcWy6DwjdQ)](https://youtu.be/ZsOq4xoTid0 "Variáveis de ambiente no Windows")
 
 
 ## 📱Appium
