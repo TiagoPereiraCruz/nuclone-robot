@@ -13,8 +13,8 @@ Você vai precisar das seguintes ferramentas e tecnologias:
 - [Java JDK8](http://www.oracle.com/technetwork/pt/java/javase/downloads/jdk8-downloads-2133151.html)
 - [Android Studio](https://developer.android.com/studio/index.html?hl=pt-br)
 - [Genymotion](https://www.genymotion.com/)
-- [Appium](https://reactjs.org)
-- [Robot Framewoek](https://facebook.github.io/react-native/)
+- [Appium](http://appium.io/)
+- [Robot Framework](https://facebook.github.io/react-native/)
 
 ## 💻 Ferramentas
 
